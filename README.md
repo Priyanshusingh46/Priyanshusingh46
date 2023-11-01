@@ -1,4 +1,5 @@
-![MasterHead](https://media.licdn.com/dms/image/C5612AQErLJQyuT4h2Q/article-inline_image-shrink_1500_2232/0/1624597705774?e=1703721600&v=beta&t=nm2DTQGZ43yLYuYF8cIe9lI-7g6kwhHch86xWZ2zfc0)
+
+![MasterHead](https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/167121800/original/91edbdbc9875196cc50f56337f4e1aea00534b12/your-awesome-mern-stack-developer.jpg)
 
 <h1 align="center">Hi 👋, I'm Priyanshu Kumar Singh</h1>
 <h3 align="center">A passionate MERN developer from India</h3>
